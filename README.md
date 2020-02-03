@@ -7,7 +7,7 @@ Lista de projetos feitos no Rstudio:
 
 ### Machine Learning
 
-* **Detecção de Câncer de Mama:** 
+* **Detecção de Câncer de Mama:** https://github.com/jerfsonbruno/Cancerc
 * **Avaliação de Risco de Crédito - Nubank:**
 
 ### Análise de sobrevivência
