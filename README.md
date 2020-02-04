@@ -27,7 +27,7 @@ Lista de projetos feitos no Rstudio:
 
 ### Meu TCC Sobre Redes Neurais e Séries Temporais
 
-* **Um Estudo Sobre Modelos Autorregressivos de Redes Neurais AR-NN(p):** 
+* **Um Estudo Sobre Modelos Autorregressivos de Redes Neurais AR-NN(p):** https://github.com/jerfsonbruno/TCC
 
 ---
 
