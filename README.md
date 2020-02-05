@@ -1,6 +1,10 @@
 ## Projetos:
 Lista de projetos feitos no Rstudio:
 
+### Introdução ao software R
+
+* **Introdução e Visualização de dados com ggplot2:** https://github.com/jerfsonbruno/ggplot2
+
 ### Análise Exploratória 
 
 * **Séries Originais Netflix:**
