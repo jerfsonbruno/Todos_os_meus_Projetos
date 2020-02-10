@@ -5,10 +5,6 @@ Lista de projetos feitos no Rstudio:
 
 * **Introdução e Visualização de dados com ggplot2:** https://github.com/jerfsonbruno/ggplot2
 
-### Análise Exploratória 
-
-* **Séries Originais Netflix:**
-
 ### Machine Learning
 
 * **Detecção de Câncer de Mama:** https://github.com/jerfsonbruno/Cancerc
