@@ -18,7 +18,6 @@ Lista de projetos feitos no Rstudio:
 
 * **Mieloma Múltiplo:** 
 * **Câncer de Pulmão:** 
-
  
 ### Séries Temporais
 
@@ -27,7 +26,7 @@ Lista de projetos feitos no Rstudio:
 ### Modelos Lineares Generalizados
 
 * **Apólices de seguros de veículos:** 
-* **Resistência dos vidros:** 
+* **Resistência dos vidros:** https://github.com/jerfsonbruno/MLG
 
 ### Meu TCC Sobre Redes Neurais e Séries Temporais
 
