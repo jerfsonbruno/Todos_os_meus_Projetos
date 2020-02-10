@@ -1,5 +1,4 @@
 ## Projetos:
-Lista de projetos feitos no Rstudio:
 
 ### Introdução ao software R
 
