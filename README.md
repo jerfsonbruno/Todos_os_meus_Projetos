@@ -1,5 +1,10 @@
 ## Projetos:
 
+### Análise Exploratória 
+
+* **Corona Virus:** https://github.com/jerfsonbruno/CoronaVirus
+
+
 ### Introdução ao software R
 
 * **Introdução e Visualização de dados com ggplot2:** https://github.com/jerfsonbruno/ggplot2
