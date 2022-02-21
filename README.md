@@ -40,8 +40,9 @@ Cientista de dados, pesquisador, estudante, programador e outras coisas.
 
 Esses projetos são feitos para que eu possa maximizar minha experiência em análise de dados, modelagem estatística e aprendizado de maquina. Sou um Estatístico motivado, reconhecido pelo desenvolvimento de soluções. Engenhoso e bem organizado, com excelentes competências em liderança e desenvolvimento de equipes.
 
-* Graduação em Estatística pela UFCG.
-* Mestrando em Estatística pela UFPE.
+* Bacharel em Estatística pela UFCG.
+* Mestre em Estatística pela UFPE.
+* Doutorando em Estatística pela UFPE.
 
 
 
